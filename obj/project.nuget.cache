@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3E1NyWEd42eJQEtuX2HSWPTEvTWMzD92xg7jUqkxTE4N+Qw3H2YrJXnEv2g9PELXYllSAG3+zTXoq+nlU10mqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenny\\Dev\\intastar\\WebAPIClient\\WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenny\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
